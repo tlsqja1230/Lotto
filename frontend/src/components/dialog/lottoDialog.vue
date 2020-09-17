@@ -66,7 +66,7 @@
             <div style="text-align:center; padding-top: 10px;">
                 <p class="font-weight-bold text-uppercase">위 사진을 보고 맞는것을 골라주세요.</p>
                 <p class="font-weight-bold text-uppercase">강신범은 ___이다.</p>
-                <v-btn class="indigo--text" text @click="quizAnswer('1')">1.븅신</v-btn>
+                <v-btn class="indigo--text" text @click="quizAnswer('1')">1.졸귀</v-btn>
                 <v-btn class="indigo--text" text @click="quizAnswer('2')">2.찐따</v-btn>
                 <v-btn class="indigo--text" text @click="quizAnswer('3')">3.극혐</v-btn>
                 <v-btn class="indigo--text" text @click="quizAnswer('4')">4.존잘</v-btn>
